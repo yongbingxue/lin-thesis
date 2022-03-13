@@ -1,0 +1,11 @@
+.app-title {
+    margin: 1em 0;
+    font-size: 5rem;
+}
+
+.app-title.small {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 5em;
+}
+

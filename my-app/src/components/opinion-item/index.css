@@ -1,0 +1,9 @@
+
+.app-opinion-item {
+    margin-bottom: 2em;
+}
+
+.app-opinion-item .app-opinion-content {
+    line-height: 0.9em;
+    margin-bottom: 1em;
+}

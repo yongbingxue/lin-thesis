@@ -1,0 +1,10 @@
+
+.text-item {
+    line-height: 0.9em;
+}
+
+.text-vertical {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+

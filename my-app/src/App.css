@@ -1,0 +1,28 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+    cursor: auto;
+}
+
+a:hover {
+    color: inherit;
+    cursor: pointer;
+}
+
+a:visited {
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul li {
+    text-decoration: none;
+}

@@ -1,0 +1,36 @@
+
+.app-navbar {
+    bottom: 10em;
+}
+
+.app-navbar .app-nav-item {
+    margin-bottom: 3em;
+}
+
+.app-navbar__text-item {
+    z-index: 2;
+}
+
+.app-nav__list-container {
+    position: absolute;
+    max-width: 80vw;
+    z-index: 1;
+}
+
+.app-nav__list-container.hide {
+    display: none;
+}
+
+.app-nav__list {
+    position: relative;
+    top: -5em;
+    left: 3em;
+    padding: 1em 2em;
+    background-color: white;
+}
+
+.app-nav__list-item {
+    display: inline;
+    margin: 0 2em;
+}
+
